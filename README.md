@@ -22,7 +22,7 @@ A food delivery web app built with **React.js** for Manipal University Jaipur st
 ## Tech Stack
 
 - **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js (if backend included)
+- **Backend:** Node.js, Express.js 
 - **Database:** MongoDB / MongoDB Atlas
 - **APIs:** Custom REST APIs
 - **State Management:** React Context API
